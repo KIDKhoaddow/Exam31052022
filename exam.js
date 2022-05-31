@@ -38,7 +38,11 @@ function isFibonacci(number){
     }
     return false;
 }
-
+let array=[1,3,5,6,7,9,6]
+let num = 2
+console.log(findMax(array));
+console.log(tryRemoveFromArray(array,num));
+console.log(isFibonacci(13));
 
 
 
